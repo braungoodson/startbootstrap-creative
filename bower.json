@@ -1,0 +1,19 @@
+{
+  "name": "startbootstrap-creative",
+  "version": "1.0.1",
+  "main": [
+    "font-awesome/css/font-awesome.min.cs",
+    "css/animate.min.css",
+    "css/creative.css",
+    "js/jquery.easing.min.js",
+    "js/jquery.fittext.js",
+    "js/wow.min.js",
+    "js/creative.js"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
